@@ -43,3 +43,4 @@ terraform.rc
 
 # Ignore Markdown files
 *.md
+*.png
