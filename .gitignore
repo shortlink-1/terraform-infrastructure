@@ -1,0 +1,45 @@
+
+DOCUMENTATION
+
+# Local .terraform directories
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Ignore override files as they are usually used to override resources locally and should not be versioned
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore .tfvars files, which are often used to store sensitive data
+*.tfvars
+*.tfvars.json
+
+# Ignore plan output files
+*.tfplan
+
+# Ignore any .DS_Store files (macOS specific)
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore backup files created by text editors
+*~
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Ignore Markdown files
+*.md
